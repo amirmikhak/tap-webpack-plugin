@@ -1,5 +1,6 @@
 {
   "name": "tap-webpack-plugin",
+  "repository": "https://github.com/amirmikhak/tap-webpack-plugin.git",
   "version": "1.0.0",
   "description": "Run TAP tests on every compile with webpack",
   "main": "index.js",
