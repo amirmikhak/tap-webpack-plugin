@@ -1,8 +1,8 @@
 var tapOut = require('tap-out')
 var spawn = require('child_process').spawn
-var map = require('lodash/collection/map')
-var filter = require('lodash/collection/filter')
-var forEach = require('lodash/collection/forEach')
+var map = require('lodash/map')
+var filter = require('lodash/filter')
+var forEach = require('lodash/forEach')
 
 function TapWebpackPlugin () {
 }
